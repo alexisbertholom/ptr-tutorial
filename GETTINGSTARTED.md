@@ -3,10 +3,10 @@
 ## Prerequisites
 
 Before starting, you need to have a github account, and knowing the (very) basics of git and github:
-- What is a repository
-- Pulling / committing / pushing
-- Branches
-- Merging / rebasing
+- [git basics](/courses/git/basics/overview)
+- [Branches](/courses/git/basics/branches)
+- [Merging](courses/git/basics/merging)
+- [Rebasing](courses/git/basics/rebasing)
 - Forking a repository
 
 ## Overview
