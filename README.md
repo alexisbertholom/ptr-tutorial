@@ -63,3 +63,33 @@ Some of these points are covered in the **Basics** courses, but you'll find more
 
 - [ ] Modules: [/courses/js/misc/modules](/courses/js/misc/modules)
 - [ ] Useful links: [/courses/js/misc/links](/courses/js/misc/links)
+
+
+## TypeScript
+
+### Basics
+
+- [ ] Basic types: [/courses/ts/basics/basic-types](/courses/ts/basics/basic-types)
+- [ ] Variable declarations: [/courses/ts/basics/variable-declarations](/courses/ts/basics/variable-declarations)
+- [ ] Interfaces: [/courses/ts/basics/interfaces](/courses/ts/basics/interfaces)
+- [ ] Classes: [/courses/ts/basics/classes](/courses/ts/basics/classes)
+- [ ] Functions: [/courses/ts/basics/functions](/courses/ts/basics/functions)
+- [ ] Generics: [/courses/ts/basics/generics](/courses/ts/basics/generics)
+- [ ] Enums: [/courses/ts/basics/enums](/courses/ts/basics/enums)
+- [ ] Type inference: [/courses/ts/basics/type-inference](/courses/ts/basics/type-inference)
+- [ ] Modules: [/courses/ts/basics/modules](/courses/ts/basics/modules)
+
+### Advanced
+
+- [ ] Type compatibility: [/courses/ts/advanced/type-compatibility](/courses/ts/advanced/type-compatibility)
+- [ ] Advanced types: [/courses/ts/advanced/advanced-types](/courses/ts/advanced/advanced-types)
+- [ ] Symbols: [/courses/ts/advanced/symbols](/courses/ts/advanced/symbols)
+- [ ] Iterators and Generators: [/courses/ts/advanced/iterators-generators](/courses/ts/advanced/iterators-generators)
+- [ ] Namespaces: [/courses/ts/advanced/namespaces](/courses/ts/advanced/namespaces)
+- [ ] Namespaces and Modules: [/courses/ts/advanced/namespaces-modules](/courses/ts/advanced/namespaces-modules)
+- [ ] Module resolution: [/courses/ts/advanced/module-resolution](/courses/ts/advanced/module-resolution)
+- [ ] Declaration merging: [/courses/ts/advanced/declaration-merging](/courses/ts/advanced/declaration-merging)
+
+### React
+
+- [ ] JSX: [/courses/ts/react/jsx](/courses/ts/react/jsx)
