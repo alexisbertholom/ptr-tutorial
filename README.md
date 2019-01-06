@@ -93,3 +93,12 @@ Some of these points are covered in the **Basics** courses, but you'll find more
 ### React
 
 - [ ] JSX: [/courses/ts/react/jsx](/courses/ts/react/jsx)
+
+
+## Front-end
+
+### Browser
+
+- [ ] DOM: [/courses/front-end/browser/dom](/courses/front-end/browser/dom)
+- [ ] Events: [/courses/front-end/browser/events](/courses/front-end/browser/events)
+- [ ] XHR: [/courses/front-end/browser/xhr](/courses/front-end/browser/xhr)
