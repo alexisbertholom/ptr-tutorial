@@ -110,3 +110,11 @@ Some of these points are covered in the **Basics** courses, but you'll find more
 - [ ] Overview: [/courses/front-end/react/overview](/courses/front-end/react/overview)
 - [ ] Main concepts: [/courses/front-end/react/main-concepts](/courses/front-end/react/main-concepts)
 - [ ] Fragments: [/courses/front-end/react/fragments](/courses/front-end/react/fragments)
+
+### Material-UI
+
+WIP - check https://material-ui.com/
+
+### MobX
+
+WIP - check https://mobx.js.org/
