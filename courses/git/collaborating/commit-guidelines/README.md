@@ -22,7 +22,7 @@ Here is the specification we follow for commit messages: [git commit messages](h
 
 Some small changes we made to this specification:
 
-- The **<scope>** should not be empty (its possible values are relative to the project)
-- One additional **<type>** value: `deps`, which is used for commits related to project dependencies (for example, in a JavaScript project, updates to `package.json` or `yarn.lock`)
+- The **\<scope>** should not be empty (its possible values are relative to the project)
+- One additional **\<type>** value: `deps`, which is used for commits related to project dependencies (for example, in a JavaScript project, updates to `package.json` or `yarn.lock`)
 
 Reading the message of a commit should be enough to know exactly what it does.
