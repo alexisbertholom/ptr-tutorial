@@ -35,7 +35,8 @@ Both are based on the Feature Branch Workflow, and both share some rules.
 
 #### General rules
 
-- **We always pull with `git pull --rebase`**. We want to put local commits on top of the commits we may pull. To ensure this behaviour, you can run this: `git config --global branch.autosetuprebase always`. It will always run `git pull` with the `--rebase` option.
+- **We use git v2.22 or higher**. Some important features (such as git rebase --rebase-merges) are only available in latest versions of git.
+- **We always pull with `git pull --rebase`**. We want to put local commits on top of the commits we may pull. To ensure this behaviour, you can run this: `git config --global pull.rebase merges`. It will always run `git pull` with the `--rebase=merges` option, performing a `git rebase --rebase-merges` when pulling.
 - **We always create `feature` branches from the tip (the latest commit) of its parent branch.**
 - **Before merging a `feature` branch back to its parent branch, it should be cleaned by amending/merging/splitting local commits if needed**. Interactive rebase (`git rebase -i`) is a particularly useful tool.
 - **Before merging a `feature` branch back to its parent branch, we make sure it has been rebased onto the tip of its parent branch.**
