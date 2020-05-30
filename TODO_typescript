@@ -1,0 +1,31 @@
+Do a tutorial on useful typescript constructs:
+
+TS 2.1:
+https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-1.html
+
+- Partial
+- Readonly
+- Record
+- Pick
+
+TS2.8:
+https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-8.html
+
+- Exclude<T, U> – Exclude from T those types that are assignable to U.
+- Extract<T, U> – Extract from T those types that are assignable to U.
+- NonNullable<T> – Exclude null and undefined from T.
+- ReturnType<T> – Obtain the return type of a function type.
+- InstanceType<T>
+
+Non standard, but super useful:
+
+- Omit<T, K extends keyof T> = Pick<T, Exclude<keyof T, K>> (https://stackoverflow.com/questions/48215950/exclude-property-from-type)
+- Thunk<T> = T | (() => T)
+- PartialSome<T, K extends keyof T> = Omit<T, K> & Pick<Partial<T>, K>
+
+
+TODO: find others
+
+
+https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-8.html
+Endless possibilities with Conditional types / Distributive conditional types

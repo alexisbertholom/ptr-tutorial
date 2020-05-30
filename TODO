@@ -1,0 +1,35 @@
+
+
+
+Courses:
+
+- semver
+- coding style
+
+## GraphQL
+
+## Backend
+### Node
+### ptr-gql-framework
+
+## Github
+### Issues
+### Pull Requests
+
+
+TODO:
+
+graphql
+
+git stash
+
+event loop
+dynamic imports
+
+html / css
+
+MDN: extremely valuable source of information
+
+explain typescript policy: type everything, USE READONLY TYPES (like ReadonlyArray)
+
+package.json / npm/yarn / yarn.lock
